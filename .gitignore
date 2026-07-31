@@ -1,0 +1,14 @@
+# Node / Frontend
+node_modules/
+dist/
+.env
+
+# .NET / Backend
+bin/
+obj/
+.vs/
+*.user
+
+# System
+.DS_Store
+Thumbs.db
